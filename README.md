@@ -1,2 +1,2 @@
-# clene-tabnews
+# clone-tabnews
 Projeto para treinar programação 
