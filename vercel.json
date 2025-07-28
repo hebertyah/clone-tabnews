@@ -1,4 +1,0 @@
-{
-    "reqrite": [{ "source": "/(.*)", "destination": "/index.html" }]
-
-}
